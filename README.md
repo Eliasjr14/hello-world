@@ -1,7 +1,14 @@
 # hello-world
-Proyecto inicial para aprender a manejar y usar git y github
 
 
-## Estas es una modificacion 
+Proyecto inicial para aprender a usar git y github
 
-Que se hizp en la ram a readme-edits 
+
+
+
+
+Lista para ver cambios en el repositorio local
+
+
++cambio 1
++cambio 2
